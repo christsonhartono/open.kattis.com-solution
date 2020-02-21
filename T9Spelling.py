@@ -9,7 +9,6 @@ keypad = {'a':'2', 'b':'22', 'c':'222',
 
 n = int(input())
 
-
 for i in range(n):
     result = list()
     words = input()
