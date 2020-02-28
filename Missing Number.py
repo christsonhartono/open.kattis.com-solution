@@ -1,6 +1,7 @@
 n = int(input())
 
 max = None
+
 arr = [0]*100000
 
 for i in range(n):
