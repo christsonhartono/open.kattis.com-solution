@@ -1,3 +1,4 @@
+#get input
 word = input().split()
 
 countA = sum([1 for i in word

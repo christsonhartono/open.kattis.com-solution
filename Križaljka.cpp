@@ -11,6 +11,7 @@ int main(){
 	for(int i=0; i<strlen(word1); i++){
 		int loc=0;
 		int found=0;
+
 		for(int j=0; j<strlen(word2); j++){
 			if(word1[i]==word2[j]){
 				found = 1;
